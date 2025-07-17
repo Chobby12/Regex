@@ -11,7 +11,7 @@ Clone the repo
 
 Install dependencies (if any)
 
-Run index.ts to test regex validations
+Run index.ts to test regex validations or simply <u><strong>npm start</strong></u>
 
 ts-node src/index.ts
 
