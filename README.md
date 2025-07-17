@@ -12,9 +12,7 @@ Clone the repo
 Install dependencies (if any)
 
 Run index.ts to test regex validations
-bash
-Copy
-Edit
+
 ts-node src/index.ts
 
 <h2>✅ Available Validators</h2>
